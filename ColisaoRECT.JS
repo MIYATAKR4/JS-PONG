@@ -1,4 +1,4 @@
-// CÓDIGO UTILIZADO PARA A COLISÃO DAS RAQUETES!!
+// CÓDIGO UTILIZADO PARA A COLISÃO DAS RAQUETES!! não é de minha autoria só utilizei para me ajudar a desenvolver meu código.
 /*
 Repo: https://github.com/bmoren/p5.collide2D/
 Created by http://benmoren.com
